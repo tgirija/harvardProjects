@@ -10,7 +10,7 @@ public class TickCreator {
 	public static void main(String[] args) {
 		if(args[0]!=null){
 			importFile(args[0]);
-						
+			///hmmm			
 			//generateTicks(min, max);
 			
 		}
